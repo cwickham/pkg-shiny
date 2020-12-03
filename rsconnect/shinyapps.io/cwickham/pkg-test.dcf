@@ -1,0 +1,12 @@
+name: pkg-test
+title: pkg-test
+username:
+account: cwickham
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3341621
+bundleId: 3935563
+url: https://cwickham.shinyapps.io/pkg-test/
+when: 1606953987.83452
+asMultiple: FALSE
+asStatic: FALSE
